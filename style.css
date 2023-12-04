@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1250px;
+    margin: auto;
+}
+.top-header {
+    text-align: center;
+    padding: 50px 0px;
+}
+.top-header p {
+    line-height: 35px;
+}
+
+/* header css */
+.main-header {
+    background-color: #151515;
+    padding: 30px 0px;
+}
+nav.bottom-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.col-6 ul {
+    color: white;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.col-3{
+    width: 30%;
+}
+.col-6{
+    width: 60%;
+}
+.col-3.icon {
+    text-align: end;
+}
