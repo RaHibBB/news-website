@@ -40,3 +40,12 @@ nav.bottom-header {
 .col-3.icon {
     text-align: end;
 }
+
+/* Blog Section => Left Sidebar */
+.left-sidebar h2 {
+    font-size: 28px;
+    line-height: 50px;
+    margin: 30px 0px;
+    margin-left: 70px;
+    font-weight: 600;
+}
